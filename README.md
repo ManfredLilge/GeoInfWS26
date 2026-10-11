@@ -4,4 +4,4 @@ Manfred Lilge
 ## EP. 01 | UE 1 | Einführung in QGIS
 ...
 ## EP. 01 | UE 2 | Datenklassifikation
-### Termin: 22.10.28
+### Termin: 22.10.26
